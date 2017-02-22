@@ -1,0 +1,6 @@
+{
+    "require": {
+        "atehnix/vk-client": "^1.2",
+        "monolog/monolog": "^1.22"
+    }
+}
